@@ -1,0 +1,2 @@
+@echo off
+C:\laragon\bin\php\php-8.5.12-1-Win32-vs17-x64\php.exe %*
